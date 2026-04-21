@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <rect width="180" height="180" rx="40" fill="#E87461"/>
+  <!-- Fork tines -->
+  <line x1="62" y1="36" x2="62" y2="62" stroke="#FFFDF9" stroke-width="6" stroke-linecap="round"/>
+  <line x1="74" y1="36" x2="74" y2="62" stroke="#FFFDF9" stroke-width="6" stroke-linecap="round"/>
+  <line x1="86" y1="36" x2="86" y2="62" stroke="#FFFDF9" stroke-width="6" stroke-linecap="round"/>
+  <!-- Fork bridge -->
+  <path d="M62 62 Q62 78 74 78 Q86 78 86 62" fill="none" stroke="#FFFDF9" stroke-width="6" stroke-linecap="round"/>
+  <!-- Fork handle -->
+  <line x1="74" y1="78" x2="74" y2="144" stroke="#FFFDF9" stroke-width="8" stroke-linecap="round"/>
+  <!-- Knife blade -->
+  <path d="M106 36 C106 36 122 54 122 72 L106 78" fill="none" stroke="#FFFDF9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Knife handle -->
+  <line x1="106" y1="78" x2="106" y2="144" stroke="#FFFDF9" stroke-width="8" stroke-linecap="round"/>
+  <!-- Heart -->
+  <path d="M90 112 C90 112 70 96 70 83 C70 75 76 71 82 74 C85 75.5 90 80 90 80 C90 80 95 75.5 98 74 C104 71 110 75 110 83 C110 96 90 112 90 112Z" fill="#FFFDF9"/>
+</svg>
