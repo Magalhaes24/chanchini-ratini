@@ -1,17 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <circle cx="32" cy="32" r="32" fill="#E87461"/>
+  <!-- Fork handle + stem -->
+  <line x1="23" y1="15" x2="23" y2="49" stroke="#FFFDF9" stroke-width="3.5" stroke-linecap="round"/>
   <!-- Fork tines -->
-  <line x1="22" y1="13" x2="22" y2="22" stroke="#FFFDF9" stroke-width="2.2" stroke-linecap="round"/>
-  <line x1="26" y1="13" x2="26" y2="22" stroke="#FFFDF9" stroke-width="2.2" stroke-linecap="round"/>
-  <line x1="30" y1="13" x2="30" y2="22" stroke="#FFFDF9" stroke-width="2.2" stroke-linecap="round"/>
-  <!-- Fork bridge -->
-  <path d="M22 22 Q22 27 26 27 Q30 27 30 22" fill="none" stroke="#FFFDF9" stroke-width="2.2" stroke-linecap="round"/>
-  <!-- Fork handle -->
-  <line x1="26" y1="27" x2="26" y2="51" stroke="#FFFDF9" stroke-width="2.8" stroke-linecap="round"/>
-  <!-- Knife blade -->
-  <path d="M38 13 C38 13 43 19 43 25 L38 27" fill="none" stroke="#FFFDF9" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Knife handle -->
-  <line x1="38" y1="27" x2="38" y2="51" stroke="#FFFDF9" stroke-width="2.8" stroke-linecap="round"/>
-  <!-- Heart -->
-  <path d="M32 38 C32 38 25 32 25 27.5 C25 24.5 27.5 23 30 24.5 C31 25.2 32 26.5 32 26.5 C32 26.5 33 25.2 34 24.5 C36.5 23 39 24.5 39 27.5 C39 32 32 38 32 38Z" fill="#FFFDF9"/>
+  <line x1="19" y1="15" x2="19" y2="26" stroke="#FFFDF9" stroke-width="3" stroke-linecap="round"/>
+  <line x1="23" y1="15" x2="23" y2="26" stroke="#FFFDF9" stroke-width="3" stroke-linecap="round"/>
+  <line x1="27" y1="15" x2="27" y2="26" stroke="#FFFDF9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Fork arch -->
+  <path d="M19 26 Q19 31 23 31 Q27 31 27 26" fill="none" stroke="#FFFDF9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Knife -->
+  <line x1="41" y1="15" x2="41" y2="49" stroke="#FFFDF9" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M41 15 Q49 20 49 28 L41 31" fill="#FFFDF9" stroke="#FFFDF9" stroke-width="1" stroke-linejoin="round"/>
 </svg>
